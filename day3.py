@@ -21,6 +21,7 @@ def serialize_root(de_serialized):
                 None
             tree[each]=children
 #### first layer done / working, need to add recursion
+    ###also redefine as Node/root / L / R sub children and etc.
     print(tree)
 
 def de_serialize_root():
