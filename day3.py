@@ -8,8 +8,3 @@
 
 #### first layer done / working, need to add recursion
     ###also redefine as Node/root / L / R sub children and etc.
-    print(tree)
-    return(tree)
-def de_serialize_root():
-    None
-
